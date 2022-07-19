@@ -15,8 +15,7 @@ import java.awt.image.BufferedImage;
 import javax.swing.JFrame;
 
 /**
- * 
- * @author **
+ * @see https://exewrap.osdn.jp/
  * @since 2009/9-/11
  */
 public class ScreenSaver extends JFrame implements MouseListener,

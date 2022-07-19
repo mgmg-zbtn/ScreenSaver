@@ -16,7 +16,6 @@ import javax.swing.JFrame;
 
 /**
  * 
- * @author **
  * @since 2012/11/03
  */
 public class Frame extends JFrame implements MouseListener,
